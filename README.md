@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br> My name is Hamid Alami, and I'm a software and Frontend developer from Australia.</h2>
+<h2 align="left">Hi 👋! <br> My name is Hamid Alami, and I'm software developer from Australia.</h2>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h3 align="left">Support me on social media!</h3>
+<h3 align="left">Be in touch!</h3>
 
 ###
 
