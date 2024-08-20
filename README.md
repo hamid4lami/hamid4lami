@@ -1,5 +1,13 @@
-<h2 align="left">Hi 👋! <br> My name is Hamid Alami, and I'm software developer from Australia.</h2>
-
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hamid%20Alami%20🤖&width=956&height=200)](https://github.com/alahy011/alahy011)
+###
+<div align="center">
+  <a href="https://www.linkedin.com/in/hamid-reza-alami22/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/hamid4lami" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
 ###
 
 <br clear="both">
