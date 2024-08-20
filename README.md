@@ -18,12 +18,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="center" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWh1d3Rtd3FvdGh1MjlpamYzNDFrZWJkMnd2ZjJsOGt1ajE1ODBxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-###
-
 ###
 
 
